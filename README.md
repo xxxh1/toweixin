@@ -9,4 +9,3 @@ cat text.txt | ~/go/bin/toweixin
 ```
 go get github.com/bugyellow/toweixin
 ```
-自己参考企业api接口方法
