@@ -3,8 +3,7 @@
 
 用法
 ```
-~/go/bin/webpwn3r URL
-cat URL.txt | ~/go/bin/toweixin
+cat text.txt | ~/go/bin/toweixin
 ```
 安装
 ```
