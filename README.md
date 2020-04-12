@@ -3,7 +3,8 @@
 
 用法
 ```
-cat text.txt | ~/go/bin/toweixin
+~/go/bin/toweixin -h
+echo hello world | ~/go/bin/toweixin
 ```
 安装
 ```
